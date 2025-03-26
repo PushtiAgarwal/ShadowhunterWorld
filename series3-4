@@ -2,7 +2,19 @@
 <head>
 <meta name= "viewport" width="device width">
 </head>
+<body style="background color:#B0C4DE;">
 <header>
+<center><h1>Series 3-4</center></h1>
+<nav>
 <ul style="text align:center;">
-<li style="display:inline-block;"
+<li style="display:inline-block; font-size:22px;"><a style="text-decoration:none;" href="index.html">Home</a></li>
+<li style="display:inline-block; font-size:22px;"><a syle="text-decoration:none; href="series1-2">Series 1-2 </a></li>
+
+<li style="display:inline-block; font-size:22px:"><a style="text-decoration:none; href="series3-4">Series 3-4</a></li>
+<li style="display:inline-block; font-size:22px:"><a style="text-decoration:none; href="">Series 3-4</a></li>
 <body>
+</nav>
+</header>
+<section style="font-size:22px;"
+<center><h2>The City of Glass</center></h2>
+
